@@ -4,6 +4,8 @@
 ## Project Description
 This project implements a trial implementation of a task, including an API for interaction with a database compiled according to the task, as well as a seeder for creating basic data and code simulating matches between the created teams. The project is built on **Node.js** and uses **MySQL** database.
 
+Tato realizace projektu neodráží všechny mé záměry a přání a odpovídá přiměřeným časovým nákladům na testovací úkol.
+
 ## Návrh databáze
 
 Databáze je mírně rozšířenou verzí původní úlohy a je navržena tak, aby byla méně náchylná k radikálním změnám a snadno rozšiřitelná. Zápasy nemají žádná omezení počtu účastníků, účast v zápasech také není omezena pouze na týmy, ale povoleny jsou i zápasy mezi jednotlivými sportovci.

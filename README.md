@@ -14,6 +14,9 @@ Entita Participation implementuje propojení mezi určitým hráčem a týmem a 
 
 Architektura aplikace je rozšířený **MVC**, kde je veškerá business logika implementována v Services.
 
+
+![Database schema](/db_schema.png)
+
 ## File Structure
 ```
 livesport/

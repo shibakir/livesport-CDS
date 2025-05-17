@@ -77,10 +77,8 @@ The simulation will:
 3. Generate random events (goals, yellow and red cards)
 4. Update match scores and statuses
 
-## API
-The application provides a RESTful API for managing:
-- Teams (`/api/teams`)
-- Matches (`/api/matches`)
-- Match participants (`/api/participants`)
-- In-game events (`/api/in-game-events`)
-- Single players (`/api/singles`)
+### Swagger UI
+The API is documented using Swagger. After starting the application, you can access the Swagger UI at:
+```
+http://localhost:3000/api-docs
+```
